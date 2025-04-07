@@ -1,1 +1,1 @@
-# curso-pydanticai
+![Capa](thumb.png)
